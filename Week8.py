@@ -61,6 +61,5 @@ if vis=="Question 1":
     else:
         st.write("Please select at least one Year and Term to display the most popular courses.")
     #st.plotly_chart(fig2)
-    #st.plotly_chart(fig3)
 elif vis=="Question 2":
     st.title("Question 2: The Percentage % of Different Type of Students in Different Program")
